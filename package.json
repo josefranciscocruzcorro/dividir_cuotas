@@ -1,0 +1,13 @@
+{
+  "name": "dividir_cuotas",
+  "version": "0.0.1",
+  "description": "Libreria para dividir cuotas lo mas eficiente posible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JOSE FRANCISCO CRUZ CORRO",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
